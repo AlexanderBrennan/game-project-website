@@ -157,9 +157,9 @@ h3 {
   margin-left: 40px;
   font-size: 45px;
 }
-img {
-  float: right;
+.midpic {
   margin-top: 180px;
+  float: right;
 }
 img {
   transition: 1s ease;
@@ -269,4 +269,8 @@ div .ab:hover {
 }
 .rev1 {
   list-style: none;
+}
+
+img .last {
+  margin-top: 0px;
 }
